@@ -4,12 +4,13 @@
 
 <h1 align="center">Ayush Jha</h1>
 <h3 align="center">A passionate developer from Your Location</h3>
-<img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365"><img  src="https://i.pinimg.com/originals/be/3c/3e/be3c3ecd2643d15b798cc1d2ec1d3b26.jpg" alt="Alt Text" height="365" width="180">
 <p align="center">
   <a href="YOUR_TWITTER_URL" target="blank">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?logo=twitter&style=for-the-badge" alt="Your Twitter" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365"><img  src="https://i.pinimg.com/originals/be/3c/3e/be3c3ecd2643d15b798cc1d2ec1d3b26.jpg" alt="Alt Text" height="365" width="180">
+
 
 ---
 
