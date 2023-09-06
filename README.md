@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Your Name" width="200" height="200">
+  <img src="YOUR_PROFILE_IMAGE_URL" alt="Ayush Jha" width="200" height="200">
 </p>
 
 <h1 align="center">Ayush Jha</h1>
@@ -14,15 +14,15 @@
 
 ---
 
-👋 Hi, I'm Your Name, a computer science enthusiast and passionate developer. I love building web applications and exploring new technologies. When I'm not coding, you can find me doing something else interesting or contributing to open-source projects.
+👋 Hi, I'm Ayush Jha, a computer science enthusiast and passionate developer. I love building web applications, Android apps, and exploring new technologies. When I'm not coding, you can find me doing something else interesting or contributing to open-source projects.
 
-- 🔭 I’m currently working on **Your Current Project**
-- 🌱 I’m currently learning **New Technology/Framework**
+- 🔭 I’m currently working on **Web Applications and Android Apps**
+- 🌱 I’m currently learning **Flutter and Dart**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Your Area of Expertise**
-- 📫 How to reach me: **Your Email Address**
+- 💬 Ask me about **Python, Web Development, or Android App Development**
+- 📫 How to reach me: **ayushjha602@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Share a Fun Fact About Yourself**
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 
 ---
 
@@ -32,7 +32,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- Add more icons here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 ---
@@ -57,6 +60,7 @@
   <a href="YOUR_TWITTER_URL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <!-- Add more social media links here -->
 </p>
+
 
 
 
