@@ -3,13 +3,7 @@
 
 
 
-<h1 align="center">Ayush Jha</h1>
-<h3 align="center">A passionate developer from Your Location</h3>
-<p align="center">
-  <a href="YOUR_TWITTER_URL" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?logo=twitter&style=for-the-badge" alt="Your Twitter" />
-  </a>
-</p>
+
 <img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365">
 
 
