@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Ayush Jha" width="200" height="200">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ayush,+a+CS+undergrad+from+Visakhapatnam,+India.;Passionate+about+working+on+GenAI,+LLMs;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/heyayushhere)
+
+
 
 <h1 align="center">Ayush Jha</h1>
 <h3 align="center">A passionate developer from Your Location</h3>
