@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ayush,+a+CS+undergrad+from+Visakhapatnam,+India.;Passionate+about+working+on+GenAI,+LLMs;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/heyayushhere)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ayush,+a+EC+undergrad+from+Surat,+India.;Passionate+about+Java,+Python,+C%2FC%2B%2B,+and+Django;&center=true&color=40b983&duration=7000&multiline=true&width=800)](https://github.com/heyayushhere)
+
 
 
 
