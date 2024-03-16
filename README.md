@@ -9,7 +9,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365">
+<img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365" align="center">
 
 
 <h2> Let's start with an intro...<img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
@@ -21,7 +21,8 @@
 
 ---
 
-👋 Hi, I'm Ayush Jha, a computer science enthusiast and passionate developer. I love building web applications, Android apps, and exploring new technologies. When I'm not coding, you can find me doing something else interesting or contributing to open-source projects.
+<p>👋 Hi, I'm Ayush Jha, a computer science enthusiast and passionate developer. I love building web applications, Android apps, and exploring new technologies.
+     When I'm not coding, you can find me doing something else interesting or contributing to open-source projects.</p>
 
 - 🔭 I’m currently working on **Web Applications and Android Apps**
 - 🌱 I’m currently learning **Flutter and Dart**
