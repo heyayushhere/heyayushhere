@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ayush,+a+EC+undergrad+from+Surat,+India.;Passionate+about+Java,+Python,+C%2FC%2B%2B,+and+Django;&center=true&color=40b983&duration=7000&multiline=false&width=800)](https://github.com/heyayushhere)
+<h1 align='center'>
+     Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Ayush
+   </h1>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ayush,+a+EC+undergrad+from,+India.;Passionate+about+Java,+Python,+C%2FC%2B%2B,+and+Django;&center=true&color=40b983&duration=7000&multiline=false&width=800)](https://github.com/heyayushhere)
 
 
 
@@ -6,6 +11,13 @@
 
 <img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="635" height="365">
 
+
+<h2> Let's start with an intro...<img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
+</h2>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ---
 
@@ -20,6 +32,7 @@
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 
 ---
+<br/><br/><br/><br/><br/><br/>
 
 **Languages and Tools:**
 
