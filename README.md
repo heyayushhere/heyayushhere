@@ -30,8 +30,6 @@
 - 💬 Ask me about **Python, Web Development, or Android App Development**
 - 📫 How to reach me: **ayushjha602@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
-
 ---
 <br/><br/><br/><br/><br/><br/>
 
@@ -56,19 +54,16 @@
 
 ---
 
-**GitHub Stats:**
+## ‍💻 Coding Profile:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-</p>
+[![codechef](https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/codewithme58)
 
-**Top Languages:**
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ayush_jha28/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="430"/>
-</p>
 
----
+## 🔗 Let's Connect:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jha-575a84167/)
+
 
 **Connect with me:**
 
